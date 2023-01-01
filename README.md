@@ -13,9 +13,7 @@ The total project is > 1000 lines of code, and is designed for aesthetics and pe
 Here it is live: 
 
 
-
-https://user-images.githubusercontent.com/100171698/210164212-f58cdf2f-9f8d-4db1-90cf-2fd0b8427f2d.mov
-
+https://user-images.githubusercontent.com/100171698/210164276-ad2cf37d-9571-472c-b384-37a1dd7b611c.mov
 
 
 Thank you! 
