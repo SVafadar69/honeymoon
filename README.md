@@ -1,8 +1,8 @@
-#Honeymoon
+**Honeymoon**
 
 Honeymoon is travel destination app written in Swift + SwiftUI. It incorporates the yes/no swiping feature seen on many dating apps, such as Tinder and Bumble.
 
-The app presents the user with the most popular honeymoon destinations in the world, and they can swipe right for "want to visit" or left for "don't want to visit". 
+The app presents the user with the most popular honey moon destinations in the world, and they can swipe right for "want to visit" or left for "don't want to visit". 
 
 The application also incorporates haptic feedback, the AVAudioPlayer module, and numerous animations to enhance the user experience. 
 
